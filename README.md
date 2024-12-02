@@ -5,13 +5,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=40&center=true&vCenter=true&width=1100&lines=Olá,+Meu+Nome+é+Gustavo+Vitali+;Estou+Cursando+ADS+pelo+Senac+EAD;Seja+Bem-Vindo(a)!+:%29)](https://git.io/typing-svg)
 </div>
 
-<div align="center"> 
+##
 
----
+<img align="right" alt="" height="190px" src="robo.gif">
 
-<img align="right" alt="" height="190px" src="image.png">
-
-<h2 align="left">Connect with me!</h2>
+<h3 align="left">Connect with me!</h3
 
 <div align="left">
 
@@ -19,28 +17,28 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-00bfbf?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavodsvm/)
 </div>
 
-<h2 align="left">My Stack </h2>
+<h3 align="left">My Stack </h3>
 
 <div align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="java logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
     <img width="8" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="45" alt="spring logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
     <img width="8" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="45" alt="c logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
     <img width="8" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="mysql logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
     <img width="8" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5 logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
     <img width="8" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="css3 logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
     <img width="8" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="45" alt="javascript logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
     <img width="8" />
 </div>
 
----
+##
 
-<h2 align="center">Git Stats</h2>
+<h3 align="center">Git Stats</h3>
 
 <div align="center">  
   <img width="49%" height="220px" src="https://github-readme-stats.vercel.app/api?username=gugavitali&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
