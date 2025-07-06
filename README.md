@@ -7,7 +7,7 @@
 
 ##
 
-<!-- <img align="right" alt="" height="190px" src="assets/robo.gif"> -->
+<img align="right" alt="" height="190px" src="assets/robo.gif">
 
 <h3 align="left" >Connect with me!</h3>
 
