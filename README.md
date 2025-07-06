@@ -7,7 +7,7 @@
 
 ##
 
-<img align="right" alt="" height="190px" src="robo.gif">
+<!-- <img align="right" alt="" height="190px" src="assets/robo.gif"> -->
 
 <h3 align="left" >Connect with me!</h3>
 
@@ -17,18 +17,24 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-00bfbf?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavodsvm/)
 </div>
 
-<!-- <h3 align="left">My Stack </h3>
+<h3 align="left">My Stack </h3>
 
 <div align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+    <img src="assets/java-original.png" alt="java logo"  />
     <img width="8" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+    <img src="assets/spring-original.png" alt="spring logo"  />
     <img width="8" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg" height="40" alt="mysql logo"  />
+    <img src="assets/postgresql-plain.png" alt="postgresql logo"  />
     <img width="8" />  
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
+    <img src="assets/hibernate-original.png" alt="hibernate logo"  />
     <img width="8" />
-</div> -->
+    <img src="assets/junit-plain-wordmark.png"alt="junit logo"  />
+    <img width="8" />  
+    <img src="assets/insomnia-original.png"alt="insomnia logo"  />
+    <img width="8" />  
+    <img src="assets/javascript-original.png"alt="javascript logo"  />
+    <img width="8" />  
+</div>
 
 ##
 
