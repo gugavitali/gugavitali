@@ -2,7 +2,7 @@
   
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=40&center=true&vCenter=true&width=1100&lines=Olá,+Meu+Nome+é+Gustavo+Vitali+;Atuo+na+Área+de+Business+Intelligence;Estou+Cursando+ADS+EAD;Seja+Bem-Vindo(a)!+:%29)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=40&center=true&vCenter=true&width=1100&lines=Olá,+Meu+Nome+é+Gustavo+Vitali+;Tenho+Experiencia+Com+java(JAX-RS)+e+Angular;Atuo+Como+Suporte+e+QA;Estou+Cursando+ADS;Seja+Bem-Vindo(a)!+:%29)](https://git.io/typing-svg)
 </div>
 
 ##
@@ -39,11 +39,6 @@
 ##
 
 <h3 align="center">Git Stats</h3>
-
-<div align="center">  
-  <img width="49%" height="220px" src="https://github-readme-stats.vercel.app/api?username=gugavitali&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Gustavo Macedo github stats" /> 
-  <img width="44%" height="220px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gugavitali&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gugavitali/gugavitali/output/github-contribution-grid-snake-dark.svg">
